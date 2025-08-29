@@ -2,7 +2,7 @@
   
 
 
-## nano ~/about_ahmed.sh 
+## nano ~./about_ahmed.sh 
 
 **Cybersecurity** Enthusiast | Exploring **API & LLM Security** | 
 Aspiring **API/LLM Security Specialist** | <br>
@@ -73,41 +73,54 @@ Currently sharpening my skills through **YouTube, Udemy, Telegram, and real-worl
 
 
 ---
+## [~/hobbies] --list  
 
-## 🎯 Hobbies  
-- 🎮 Gaming  
-- 🎵 Listening to music  
-- 🎬 Watching anime/movies  
-- 📚 Exploring new cybersecurity challenges  
+<table>
+<tr>
+<td width="65%" valign="top" style="font-size:1.1em;">
+
+Gaming is my go-to for downtime, and I'm a huge fan of story-driven games like *The Last of Us*, *Red Dead Redemption 2*, *Ghost of Tsushima*, and *Detroit: Become Human*. These games inspire me because of their storytelling, world-building, and emotional depth — they’re more than just entertainment; they feel like experiences.  
+<br><br>
+I also love a good adventure in the GTA series, where the open world gives me freedom to explore and create my own fun. On top of that, I'm a massive Spider-Man fan — especially the games — because swinging through New York City never gets old.  
+<br><br>
+When I'm not gaming, I usually dive into movies and shows. My favorites include Sci-Fi epics that make me think about the future, action-packed Marvel and DC movies that bring heroes to life, and Netflix Originals that always surprise me with fresh stories. Movies and games are more than hobbies for me — they’re a way to escape, learn, and get inspired.  
+
+</td>
+
+<td width="35%" valign="top" align="center">
+<img src="https://i.pinimg.com/originals/7f/f8/bf/7ff8bffd16827dfb931124279963b208.png" alt="Hobby Image" width="300"/>
+</td>
+</tr>
+</table>
+
 
 ---
 
-## 🎬 Featured GIF  
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhqMWZrbTRscTBsaXhrcWNzZW96bzZ1dmcwbDEwOWxsMHdqYTgwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DENjqVtIYd55u/giphy.gif" width="400" alt="fun gif"/>
-</p>
 
----
+## ~\$ ./connect_me.sh  
 
-## 📫 Connect with Me  
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 25px; list-style: none;">
+
   <a href="https://www.linkedin.com/in/faizan-ahmed-1b588331b/">
     <img src="https://github.com/user-attachments/assets/9405f623-4275-4668-93c1-0ef4031cc71e" alt="LinkedIn" width="60" height="60"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:forfaizanahmed@gmail.com">
     <img src="https://github.com/user-attachments/assets/6b42ce94-1793-4966-a564-426732db320b" alt="Email" width="60" height="60"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="https://instagram.com/faizan_ahmed_2008">
     <img src="https://github.com/user-attachments/assets/caa127e9-d438-45aa-ac60-a7381deaa1ad" alt="Instagram" width="60" height="60"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="https://twitter.com/FaizanAhmed2008">
     <img src="https://github.com/user-attachments/assets/67e01382-997e-497f-ac1f-ce338f78716a" alt="Twitter" width="60" height="60"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="https://t.me/faizan_ahmed_2008">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="60" height="60"/>
   </a>
-</p>
+
+</div>
+
+
