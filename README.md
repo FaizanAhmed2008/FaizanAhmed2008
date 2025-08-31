@@ -73,25 +73,10 @@ Currently sharpening my skills through **YouTube, Udemy, Telegram, and real-worl
 
 
 ---
-## [~/hobbies] --list  
 
-<table>
-<tr>
-<td width="65%" valign="top" style="font-size:1.1em;">
-
-Gaming is my go-to for downtime, and I'm a huge fan of story-driven games like *The Last of Us*, *Red Dead Redemption 2*, *Ghost of Tsushima*, and *Detroit: Become Human*. These games inspire me because of their storytelling, world-building, and emotional depth — they’re more than just entertainment; they feel like experiences.  
-<br><br>
-I also love a good adventure in the GTA series, where the open world gives me freedom to explore and create my own fun. On top of that, I'm a massive Spider-Man fan — especially the games — because swinging through New York City never gets old.  
-<br><br>
-When I'm not gaming, I usually dive into movies and shows. My favorites include Sci-Fi epics that make me think about the future, action-packed Marvel and DC movies that bring heroes to life, and Netflix Originals that always surprise me with fresh stories. Movies and games are more than hobbies for me — they’re a way to escape, learn, and get inspired.  
-
-</td>
-
-<td width="35%" valign="top" align="center">
-<img src="https://i.pinimg.com/originals/7f/f8/bf/7ff8bffd16827dfb931124279963b208.png" alt="Hobby Image" width="300"/>
-</td>
-</tr>
-</table>
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/originals/7f/f8/bf/7ff8bffd16827dfb931124279963b208.png" width="250"/>
+</div>
 
 
 ---
