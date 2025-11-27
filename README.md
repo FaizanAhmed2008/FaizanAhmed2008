@@ -4,8 +4,8 @@
 
 ## nano ~./about_ahmed.sh 
 
-**Cybersecurity** Enthusiast | Exploring **API & LLM Security** | 
-Aspiring **API/LLM Security Specialist** | <br>
+**Cybersecurity** Enthusiast | Exploring **Security** | 
+Aspiring **Security Specialist** | <br>
 Currently sharpening my skills through **YouTube, Udemy, Telegram, and real-world labs**. Passionate about securing APIs, testing AI systems, and learning how modern applications can be both broken and defended.  
 
 
