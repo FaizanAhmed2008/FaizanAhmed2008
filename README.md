@@ -1,15 +1,15 @@
+<p align="center">
+  <img src="https://images3.alphacoders.com/278/thumb-1920-278139.jpg" width="1280" height="320">
+</p>
+
 # root@ahmed:~$ Faizan Ahmed
 
 ## nano ~./about_ahmed.sh
 
 **Cybersecurity Enthusiast** | Interested in **Cloud Technologies** |
-Exploring modern infrastructure, operating systems, and security.
+Curious about how systems, networks, and clouds fit together.
 
-Currently sharpening my skills through **YouTube, Udemy, Telegram, and hands-on labs**.
-
-Deeply interested in understanding how cloud environments, Linux systems, and modern applications work behind the scenes. I enjoy exploring security concepts, infrastructure, automation, and the technologies that power today's digital world.
-
-Passionate about Linux, DevOps culture, and building a strong understanding of secure and reliable systems.
+I learn from YouTube, Udemy, Telegram, and hands-on labs, following practical paths that help me build confidence. I like keeping the tone personal and direct, with a focus on experimentation and steady progress.
 
 ---
 
@@ -18,79 +18,37 @@ Passionate about Linux, DevOps culture, and building a strong understanding of s
 ```bash
 [ Pokédex Status ]
 
-Trainer          : Faizan Ahmed
-Region           : Cyber Security & Cloud
-Partner Pokémon  : Linux
-Current Mission  : Learning • Building • Exploring
+Current Focus    : Cyber Security & Cloud
+Daily Driver     : ThinkPad + Arch Linux
+Partner Pokémon  : Wobbuffet (#202)  
+Status           : Learning
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-⚡ Exploring modern technologies
-⚡ Learning through hands-on practice
-⚡ Continuously expanding knowledge
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Status : Online
-XP     : Increasing Daily
+🔄 Exploring modern technologies 
+🔄 Learning through hands-on practice
+🔄 Watching Pokémon episodes
+🔄 Playing story & strategy games
 ```
 
 ---
 
 <div align="center">
-<img src="https://media.tenor.com/DimzPZMypFcAAAAM/pokemon-pikachu.gif" width="250"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQyM2gxdzgwdHJ1bHg2dm1qeHgwZGdkOTJtNm55YTZ2YWk1bmZnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DENjqVtIYd55u/giphy.gif" width="250"/>
 </div>
 
 ---
 
-## ~/trainer_hobbies.sh
+## ~/interests.sh
 
 ```bash
-- 🐧 Linux Enthusiast
-  Daily driving Linux and enjoying the open-source ecosystem.
-
-- ⚙️ Arch Linux User
-  Always customizing, experimenting, and learning.
-
-- 🎮 Gaming Enthusiast
-  Big fan of story-driven adventures and strategy games.
-
-- ⛏️ Minecraft Player
-  Building, exploring, and occasionally overengineering everything.
-
-- 🍳 Cooking Enjoyer
-  Love trying new recipes and experimenting in the kitchen.
-
-- ⚡ Pokémon Fan
-  A lifelong Pokémon trainer at heart.
+When I'm not exploring technology, you'll probably find me customizing my Arch Linux setup, playing story-driven and strategy games, building random projects in Minecraft, watching Pokémon and collecting random Pokémon facts, or trying something new in the kitchen.
 ```
 
 ---
 
-## Pokémon Center • connect_me.sh
+## ~/network.sh
 
-<div align="center" style="display: flex; justify-content: center; gap: 25px; list-style: none;">
-
-  <a href="https://www.linkedin.com/in/faizan-ahmed-1b588331b/">
-    <img src="https://github.com/user-attachments/assets/9405f623-4275-4668-93c1-0ef4031cc71e" alt="LinkedIn" width="60" height="60"/>
-  </a>
-
-  <a href="mailto:forfaizanahmed@gmail.com">
-    <img src="https://github.com/user-attachments/assets/6b42ce94-1793-4966-a564-426732db320b" alt="Email" width="60" height="60"/>
-  </a>
-
-  <a href="https://instagram.com/faizan_ahmed_2008">
-    <img src="https://github.com/user-attachments/assets/caa127e9-d438-45aa-ac60-a7381deaa1ad" alt="Instagram" width="60" height="60"/>
-  </a>
-
-  <a href="https://twitter.com/FaizanAhmed2008">
-    <img src="https://github.com/user-attachments/assets/67e01382-997e-497f-ac1f-ce338f78716a" alt="Twitter" width="60" height="60"/>
-  </a>
-
-  <a href="https://t.me/faizan_ahmed_2008">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="60" height="60"/>
-  </a>
-
+<div align="center">
+[LinkedIn](https://www.linkedin.com/in/faizan-ahmed-1b588331b/)  •  [Email](mailto:forfaizanahmed@gmail.com)  •  [Instagram](https://instagram.com/faizan_ahmed_2008)  •  [X](https://twitter.com/FaizanAhmed2008)  •  [Telegram](https://t.me/faizan_ahmed_2008)
 </div>
 
 ---
