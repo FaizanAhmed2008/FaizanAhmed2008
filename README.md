@@ -3,7 +3,6 @@
 </div>
 
  ---
- ---
  
 # $ root@ahmed:~$ Faizan Ahmed
 
@@ -23,11 +22,11 @@ Deeply interested in understanding how cloud environments, Linux systems, and mo
 
 [ Pokédex Status ]
 
-Current Focus    : Cyber Security & Cloud
-Daily Driver     : ThinkPad powered by Arch Linux
-Favorite Region  : Johto
-Partner Pokémon  : Wobbuffet (#0202)
-Status           : Online
+Current Focus    : Cyber Security & Cloud <br>
+Daily Driver     : ThinkPad powered by Arch Linux <br>
+Favorite Region  : Johto <br>
+Partner Pokémon  : Wobbuffet (#0202)<br>
+Status           : Online<br>
 
 ---
 
