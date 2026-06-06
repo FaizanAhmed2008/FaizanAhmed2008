@@ -2,7 +2,9 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQyM2gxdzgwdHJ1bHg2dm1qeHgwZGdkOTJtNm55YTZ2YWk1bmZnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DENjqVtIYd55u/giphy.gif" width="250"/>
 </div>
 
-
+ ---
+ ---
+ 
 # $ root@ahmed:~$ Faizan Ahmed
 
 ## $ nano ~./about_ahmed.sh
@@ -15,18 +17,17 @@ Currently sharpening my skills through YouTube, Udemy, Telegram, and hands-on la
 Deeply interested in understanding how cloud environments, Linux systems, and modern applications work behind the scenes. I enjoy exploring security concepts, infrastructure, automation, and the technologies that power today's digital world.
 
 
-
 ---
 
 ## $ /etc/skills.conf
 
 [ Pokédex Status ]
 
-Current Focus    : Cyber Security & Cloud  
-Daily Driver     : ThinkPad powered by Arch Linux  
+Current Focus    : Cyber Security & Cloud
+Daily Driver     : ThinkPad powered by Arch Linux
 Favorite Region  : Johto
 Partner Pokémon  : Wobbuffet (#0202)
-Status           : Online 
+Status           : Online
 
 ---
 
@@ -41,7 +42,7 @@ Status           : Online
 
 ## $ cat ~/hobby.py
 
-When I'm not exploring technology, you'll probably find me customizing my Arch Linux setup, playing story-driven and strategy games, building in Minecraft, enjoying Pokémon, or trying something new in the kitchen.
+When I'm not exploring technology, you'll probably find me customizing my Arch Linux setup, playing story-driven and strategy games, building random projects in Minecraft, Watching Pokémon and collecting random Pokémon facts, or trying something new in the kitchen.
 
 ---
 
@@ -74,5 +75,5 @@ When I'm not exploring technology, you'll probably find me customizing my Arch L
 ---
 
 ```bash
-root@ahmed:~$ echo "Gotta secure 'em all."
+root@ahmed:~$ echo "Still reading the documentation."
 ```
