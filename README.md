@@ -1,88 +1,73 @@
- # root@ahmed:~$ Faizan Ahmed
-  
+# root@ahmed:~$ Faizan Ahmed
 
+## nano ~./about_ahmed.sh
 
-## nano ~./about_ahmed.sh 
+**Cybersecurity Enthusiast** | Interested in **Cloud Technologies** |
+Exploring modern infrastructure, operating systems, and security.
 
-**Cybersecurity** Enthusiast | Exploring **Security** | 
-Aspiring **Security Specialist** | <br>
-Currently sharpening my skills through **YouTube, Udemy, Telegram, and real-world labs**. Passionate about securing APIs, testing AI systems, and learning how modern applications can be both broken and defended.  
+Currently sharpening my skills through **YouTube, Udemy, Telegram, and hands-on labs**.
 
+Deeply interested in understanding how cloud environments, Linux systems, and modern applications work behind the scenes. I enjoy exploring security concepts, infrastructure, automation, and the technologies that power today's digital world.
+
+Passionate about Linux, DevOps culture, and building a strong understanding of secure and reliable systems.
 
 ---
 
-## /etc/skills.conf  
- 
+## /etc/skills.conf
+
+```bash
+[ Pokédex Status ]
+
+Trainer          : Faizan Ahmed
+Region           : Cyber Security & Cloud
+Partner Pokémon  : Linux
+Current Mission  : Learning • Building • Exploring
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚡ Exploring modern technologies
+⚡ Learning through hands-on practice
+⚡ Continuously expanding knowledge
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Status : Online
+XP     : Increasing Daily
+```
+
+---
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/><br>Bash
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>Docker
-</td>
-<td align="center" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50"/><br>Kali Linux
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>GitHub
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUqXIfMA5SWejplac2niPnKswtWJYB7Ev_w&s" width="50"/><br>Burp Suite
-</td>
-<td align="center" width="100">
-<img src="https://avatars.githubusercontent.com/u/6716868?s=200&v=4" width="50"/><br>OWASP ZAP
-</td>
-<td align="center" width="100">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="50"/><br>Postman
-</td>
-<td align="center" width="100">
-<img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" width="50"/><br>Metasploit
-</td>
-<td align="center" width="100">
-<img src="https://img.icons8.com/color/512/nmap.png" width="50"/><br>Nmap
-</td>
-<td align="center" width="100">
-<img src="https://images.icon-icons.com/1381/PNG/512/wireshark_94067.png" width="50"/><br>Wireshark
-</td>
-<td align="center" width="100">
-<img src="https://gitlab.com/uploads/-/system/project/avatar/11904321/kali-sqlmap.png" width="50"/><br>SQLMap
-</td>
-</tr>
-</table>
-
+<img src="https://media.tenor.com/DimzPZMypFcAAAAM/pokemon-pikachu.gif" width="250"/>
 </div>
-
-
-
 
 ---
 
-<div style="text-align: center;">
-  <img src="https://i.pinimg.com/originals/7f/f8/bf/7ff8bffd16827dfb931124279963b208.png" width="250"/>
-</div>
+## ~/trainer_hobbies.sh
 
+```bash
+- 🐧 Linux Enthusiast
+  Daily driving Linux and enjoying the open-source ecosystem.
+
+- ⚙️ Arch Linux User
+  Always customizing, experimenting, and learning.
+
+- 🎮 Gaming Enthusiast
+  Big fan of story-driven adventures and strategy games.
+
+- ⛏️ Minecraft Player
+  Building, exploring, and occasionally overengineering everything.
+
+- 🍳 Cooking Enjoyer
+  Love trying new recipes and experimenting in the kitchen.
+
+- ⚡ Pokémon Fan
+  A lifelong Pokémon trainer at heart.
+```
 
 ---
 
-
-## ~\$ ./connect_me.sh  
+## Pokémon Center • connect_me.sh
 
 <div align="center" style="display: flex; justify-content: center; gap: 25px; list-style: none;">
 
@@ -108,4 +93,8 @@ Currently sharpening my skills through **YouTube, Udemy, Telegram, and real-worl
 
 </div>
 
+---
 
+```bash
+root@ahmed:~$ echo "Gotta secure 'em all."
+```
