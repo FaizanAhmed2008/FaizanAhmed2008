@@ -15,19 +15,12 @@ I learn from YouTube, Udemy, Telegram, and hands-on labs, following practical pa
 
 ## /etc/skills.conf
 
-```bash
 [ Pokédex Status ]
 
-Current Focus    : Cyber Security & Cloud
-Daily Driver     : ThinkPad + Arch Linux
-Partner Pokémon  : Wobbuffet (#202)  
-Status           : Learning
-
-🔄 Exploring modern technologies 
-🔄 Learning through hands-on practice
-🔄 Watching Pokémon episodes
-🔄 Playing story & strategy games
-```
+Current Focus    : Cyber Security & Cloud  
+Daily Driver     : ThinkPad + Arch Linux  
+Partner Pokémon  : Wobbuffet  
+Status           : Learning  
 
 ---
 
@@ -37,15 +30,13 @@ Status           : Learning
 
 ---
 
-## ~/interests.sh
+## ~/outside_the_terminal.sh
 
-```bash
-When I'm not exploring technology, you'll probably find me customizing my Arch Linux setup, playing story-driven and strategy games, building random projects in Minecraft, watching Pokémon and collecting random Pokémon facts, or trying something new in the kitchen.
-```
+When I'm not exploring technology, you'll probably find me customizing my Arch Linux setup, playing story-driven and strategy games, building in Minecraft, enjoying Pokémon, or trying something new in the kitchen.
 
 ---
 
-## ~/network.sh
+## ~/pokégear.sh
 
 <div align="center">
 [LinkedIn](https://www.linkedin.com/in/faizan-ahmed-1b588331b/)  •  [Email](mailto:forfaizanahmed@gmail.com)  •  [Instagram](https://instagram.com/faizan_ahmed_2008)  •  [X](https://twitter.com/FaizanAhmed2008)  •  [Telegram](https://t.me/faizan_ahmed_2008)
