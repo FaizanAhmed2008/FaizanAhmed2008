@@ -8,9 +8,13 @@
 ## $ nano ~./about_ahmed.sh
 
 **Cybersecurity Enthusiast** | Interested in **Cloud Technologies** |
-Curious about how systems, networks, and clouds fit together.
+Exploring modern infrastructure, operating systems, and security.
 
-I learn from YouTube, Udemy, Telegram, and hands-on labs, following practical paths that help me build confidence. I like keeping the tone personal and direct, with a focus on experimentation and steady progress.
+Currently sharpening my skills through YouTube, Udemy, Telegram, and hands-on labs.
+
+Deeply interested in understanding how cloud environments, Linux systems, and modern applications work behind the scenes. I enjoy exploring security concepts, infrastructure, automation, and the technologies that power today's digital world.
+
+
 
 ---
 
@@ -19,11 +23,15 @@ I learn from YouTube, Udemy, Telegram, and hands-on labs, following practical pa
 [ Pokédex Status ]
 
 Current Focus    : Cyber Security & Cloud  
-Daily Driver     : ThinkPad + Arch Linux  
-Partner Pokémon  : Wobbuffet  
-Status           : Learning  
+Daily Driver     : ThinkPad powered by Arch Linux  
+Favorite Region  : Johto
+Partner Pokémon  : Wobbuffet (#0202)
+Status           : Online 
 
 ---
+
+
+## $ feh ~./#202_shinnyyyy.jpge
 
 <p align="center">
   <img src="https://i.ytimg.com/vi/AWLEHiJu3qY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhtbl2SqG2rI-_Z4hWWC3UxkrKVg" alt="shinnyy" style="width:100%; max-width:1280px; height:auto;">
@@ -31,7 +39,7 @@ Status           : Learning
 
 ---
 
-## $ cat ~/outside_the_terminal.sh
+## $ cat ~/hobby.py
 
 When I'm not exploring technology, you'll probably find me customizing my Arch Linux setup, playing story-driven and strategy games, building in Minecraft, enjoying Pokémon, or trying something new in the kitchen.
 
@@ -46,7 +54,7 @@ When I'm not exploring technology, you'll probably find me customizing my Arch L
 </a>
 
 <a href="mailto:forfaizanahmed@gmail.com">
-<img src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" width="55">
+<img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="55">
 </a>
 
 <a href="https://instagram.com/faizan_ahmed_2008">
