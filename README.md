@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://img.youtube.com/vi/AWLEHiJu3qY/sddefault.jpg" alt="banner" style="width:100%; max-width:1280px; height:auto;">
-</p>
+<div align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQyM2gxdzgwdHJ1bHg2dm1qeHgwZGdkOTJtNm55YTZ2YWk1bmZnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DENjqVtIYd55u/giphy.gif" width="250"/>
+</div>
+
 
 # $ root@ahmed:~$ Faizan Ahmed
 
@@ -24,9 +25,9 @@ Status           : Learning
 
 ---
 
-<div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQyM2gxdzgwdHJ1bHg2dm1qeHgwZGdkOTJtNm55YTZ2YWk1bmZnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DENjqVtIYd55u/giphy.gif" width="250"/>
-</div>
+<p align="center">
+  <img src="https://i.ytimg.com/vi/AWLEHiJu3qY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhtbl2SqG2rI-_Z4hWWC3UxkrKVg" alt="shinnyy" style="width:100%; max-width:1280px; height:auto;">
+</p>
 
 ---
 
