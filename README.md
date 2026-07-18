@@ -6,7 +6,7 @@
  
 # $ root@ahmed:~$ Faizan Ahmed
 
-## $ nano ~./about_ahmed.sh
+## $ echo ~./about_ahmed.sh
 
 **Cybersecurity Enthusiast** | Interested in **Cloud Technologies** |
 Exploring modern infrastructure, operating systems, and security.
