@@ -11,7 +11,6 @@
 **Cybersecurity Enthusiast** | Interested in **Cloud Technologies** |
 Exploring modern infrastructure, operating systems, and security.
 
-Currently sharpening my skills through YouTube, Udemy, Telegram, and hands-on labs.
 
 Deeply interested in understanding how cloud environments, Linux systems, and modern applications work behind the scenes. I enjoy exploring security concepts, infrastructure, automation, and the technologies that power today's digital world.
 
