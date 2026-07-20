@@ -95,24 +95,24 @@ When I'm not exploring technology, you'll probably find me customizing my Arch L
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/faizan-ahmed-1b588331b/">
-<img src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png" width="55">
+<a href="https://www.linkedin.com/in/faizan-ahmed-1b588331b/" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:0 6px;">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="32">
 </a>
 
-<a href="mailto:forfaizanahmed@gmail.com">
-<img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="55">
+<a href="mailto:forfaizanahmed@gmail.com" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:0 6px;">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" height="32">
 </a>
 
-<a href="https://instagram.com/faizan_ahmed_2008">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="55">
+<a href="https://instagram.com/faizan_ahmed_2008" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:0 6px;">
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" height="32">
 </a>
 
-<a href="https://twitter.com/FaizanAhmed2008">
-<img src="https://cdn-icons-png.flaticon.com/512/145/145812.png" width="55">
+<a href="https://twitter.com/FaizanAhmed2008" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:0 6px;">
+<img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" height="32">
 </a>
 
-<a href="https://t.me/faizan_ahmed_2008">
-<img src="https://cdn-icons-png.flaticon.com/512/3488/3488463.png" width="55">
+<a href="https://t.me/faizan_ahmed_2008" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin:0 6px;">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" height="32">
 </a>
 
 </p>
