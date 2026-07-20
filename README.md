@@ -19,12 +19,16 @@ Deeply interested in understanding how cloud environments, Linux systems, and mo
 
 ## $ /etc/skills.conf
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,aws,git,github,vscode,wireshark,nmap,burp,ssh" alt="Core skills" />
-</p>
+[ Pokédex Status ]
+
+Current Focus    : Cyber Security & Cloud <br>
+Daily Driver     : ThinkPad powered by Arch Linux <br>
+Favorite Region  : Johto <br>
+Partner Pokémon  : Wobbuffet (#0202)<br>
+Status           : Online<br>
 
 <details>
-<summary>More</summary>
+<summary>$ ls ~/more_skills</summary>
 
 ### 🛡️ Security
 - Linux
