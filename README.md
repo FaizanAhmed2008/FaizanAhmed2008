@@ -19,13 +19,57 @@ Deeply interested in understanding how cloud environments, Linux systems, and mo
 
 ## $ /etc/skills.conf
 
-[ Pokédex Status ]
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,aws,git,github,vscode,wireshark,nmap,burp,ssh" alt="Core skills" />
+</p>
 
-Current Focus    : Cyber Security & Cloud <br>
-Daily Driver     : ThinkPad powered by Arch Linux <br>
-Favorite Region  : Johto <br>
-Partner Pokémon  : Wobbuffet (#0202)<br>
-Status           : Online<br>
+<details>
+<summary>More</summary>
+
+### 🛡️ Security
+- Linux
+- Burp Suite
+- Wireshark
+- Nmap
+- OSINT
+- Bash
+- Linux CLI / GNU Utilities
+- Web Security Fundamentals
+
+### ☁️ Cloud
+- Docker
+- AWS (Learning)
+- Linux Server Setup
+- SSH
+
+### 💻 Development
+- Python
+- C
+- C++
+- Bash
+- Automation & Scripting
+- Git Workflows
+
+### 🌐 Networking
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- SSH
+- Network Troubleshooting
+- Basic Routing & Switching
+
+### 🛠️ Tools
+- Git
+- GitHub
+- GitLab
+- VS Code
+- Neovim
+- Docker
+
+### 🖥️ Systems
+Comfortable with Linux installation and configuration, setting up Linux servers, troubleshooting computer hardware, and Android modding (bootloader unlocking, rooting, and custom ROM installation).
+
+</details>
 
 ---
 
