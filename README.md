@@ -42,7 +42,7 @@ Status           : Online<br>
 
 ### ☁️ Cloud
 - Docker
-- AWS (Learning)
+- AWS 
 - Linux Server Setup
 - SSH
 
@@ -71,7 +71,7 @@ Status           : Online<br>
 - Docker
 
 ### 🖥️ Systems
-Comfortable with Linux installation and configuration, setting up Linux servers, troubleshooting computer hardware, and Android modding (bootloader unlocking, rooting, and custom ROM installation).
+Comfortable working with Linux systems, from installation and configuration to server setup and administration. I also enjoy troubleshooting computer hardware and exploring Android modding, including bootloader unlocking, rooting, custom ROM installation, and recovery-based customization.
 
 </details>
 
