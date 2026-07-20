@@ -38,7 +38,7 @@ Status           : Online<br>
 - OSINT
 - Bash
 - Linux CLI / GNU Utilities
-- Web Security Fundamentals
+- Web/API Security
 
 ### ☁️ Cloud
 - Docker
@@ -48,8 +48,7 @@ Status           : Online<br>
 
 ### 💻 Development
 - Python
-- C
-- C++
+- C/C++
 - Bash
 - Automation & Scripting
 - Git Workflows
