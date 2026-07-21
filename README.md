@@ -38,62 +38,43 @@ Status           : Online<br>
 
 <details>
   <summary style="cursor:pointer; padding:12px 18px; border:1px solid #30363d; border-radius:14px; background:#161b22; color:#c9d1d9; font-weight:600; max-width:260px; margin:0 auto;">More Skills</summary>
-  <div align="center" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:12px; margin-top:12px;">
-    <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:14px; text-align:left; min-height:170px;">
-      <h4 style="margin:0 0 8px; color:#58a6ff;">🛡️ Security</h4>
-      <ul style="margin:0; padding-left:16px; color:#c9d1d9; font-size:0.95rem; line-height:1.5;">
-        <li>Linux</li>
-        <li>Burp Suite</li>
-        <li>Wireshark</li>
-        <li>Nmap</li>
-        <li>OSINT</li>
-      </ul>
-    </div>
-    <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:14px; text-align:left; min-height:170px;">
-      <h4 style="margin:0 0 8px; color:#7ee787;">☁️ Cloud</h4>
-      <ul style="margin:0; padding-left:16px; color:#c9d1d9; font-size:0.95rem; line-height:1.5;">
-        <li>Docker</li>
-        <li>AWS Console</li>
-        <li>Linux Server Setup</li>
-        <li>SSH</li>
-      </ul>
-    </div>
-    <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:14px; text-align:left; min-height:170px;">
-      <h4 style="margin:0 0 8px; color:#79c0ff;">💻 Development</h4>
-      <ul style="margin:0; padding-left:16px; color:#c9d1d9; font-size:0.95rem; line-height:1.5;">
-        <li>Python</li>
-        <li>C/C++</li>
-        <li>Bash</li>
-        <li>Automation</li>
-        <li>Git Workflows</li>
-      </ul>
-    </div>
-    <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:14px; text-align:left; min-height:170px;">
-      <h4 style="margin:0 0 8px; color:#8b949e;">🌐 Networking</h4>
-      <ul style="margin:0; padding-left:16px; color:#c9d1d9; font-size:0.95rem; line-height:1.5;">
-        <li>TCP/IP</li>
-        <li>DNS</li>
-        <li>HTTP/HTTPS</li>
-        <li>SSH</li>
-        <li>Network Troubleshooting</li>
-      </ul>
-    </div>
-    <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:14px; text-align:left; min-height:170px;">
-      <h4 style="margin:0 0 8px; color:#f59e0b;">🛠️ Tools</h4>
-      <ul style="margin:0; padding-left:16px; color:#c9d1d9; font-size:0.95rem; line-height:1.5;">
-        <li>Git</li>
-        <li>GitHub</li>
-        <li>GitLab</li>
-        <li>VS Code</li>
-        <li>Neovim</li>
-      </ul>
-    </div>
-    <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:14px; text-align:left; min-height:170px;">
-      <h4 style="margin:0 0 8px; color:#a371f7;">🖥️ Systems</h4>
-      <p style="margin:0; color:#c9d1d9; font-size:0.95rem; line-height:1.5;">
-        Comfortable with Linux systems, server setup, administration, hardware troubleshooting, and Android modding.
-      </p>
-    </div>
+  <div style="overflow-x:auto; margin-top:12px; padding:0 4px;">
+    <table style="border-collapse:collapse; width:100%; max-width:900px; margin:0 auto; color:#c9d1d9; font-size:0.95rem;">
+      <thead>
+        <tr>
+          <th style="border-bottom:1px solid #30363d; padding:10px 12px; text-align:left; min-width:160px;">Security</th>
+          <th style="border-bottom:1px solid #30363d; padding:10px 12px; text-align:left; min-width:160px;">Cloud</th>
+          <th style="border-bottom:1px solid #30363d; padding:10px 12px; text-align:left; min-width:160px;">Development</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="border-bottom:1px solid #30363d; padding:10px 12px; vertical-align:top;">
+            🛡️ Linux, Burp Suite, Wireshark, Nmap, OSINT
+          </td>
+          <td style="border-bottom:1px solid #30363d; padding:10px 12px; vertical-align:top;">
+            ☁️ Docker, AWS Console, Linux Server Setup, SSH
+          </td>
+          <td style="border-bottom:1px solid #30363d; padding:10px 12px; vertical-align:top;">
+            💻 Python, C/C++, Bash, Automation, Git Workflows
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:10px 12px; vertical-align:top;">
+            🌐 Networking: TCP/IP, DNS, HTTP/HTTPS, SSH, Troubleshooting
+          </td>
+          <td style="padding:10px 12px; vertical-align:top;">
+            🛠️ Tools: Git, GitHub, GitLab, VS Code, Neovim
+          </td>
+          <td style="padding:10px 12px; vertical-align:top; color:#8b949e; font-style:italic;">
+            🖥️ Systems line appears below the table
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="margin:12px auto 0; max-width:900px; color:#c9d1d9; font-size:0.95rem; text-align:left;">
+      🖥️ Systems: Comfortable with Linux systems, server setup, administration, hardware troubleshooting, and Android modding.
+    </p>
   </div>
 </details>
 
