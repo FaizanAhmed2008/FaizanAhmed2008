@@ -42,7 +42,7 @@ Status           : Online<br>
 
 ### ☁️ Cloud
 - Docker
-- AWS 
+- AWS Console
 - Linux Server Setup
 - SSH
 
@@ -67,7 +67,6 @@ Status           : Online<br>
 - GitLab
 - VS Code
 - Neovim
-- Docker
 
 ### 🖥️ Systems
 Comfortable working with Linux systems, from installation and configuration to server setup and administration. I also enjoy troubleshooting computer hardware and exploring Android modding, including bootloader unlocking, rooting, custom ROM installation, and recovery-based customization.
