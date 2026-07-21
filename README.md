@@ -28,10 +28,10 @@ Partner Pokémon  : Wobbuffet (#0202)<br>
 Status           : Online<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker Badge" height="32" />
-  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge" alt="Linux Badge" height="32" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS Badge" height="32" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge" height="32" />
+  <img src="https://img.shields.io/badge/Networking-2CA5E0?logo=network-wired&logoColor=white&style=for-the-badge" alt="Networking Badge" height="32" />
+  <img src="https://img.shields.io/badge/Cloud-0A66C2?logo=cloud&logoColor=white&style=for-the-badge" alt="Cloud Badge" height="32" />
+  <img src="https://img.shields.io/badge/Development-00BFFF?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Development Badge" height="32" />
+  <img src="https://img.shields.io/badge/Tools-6B7280?logo=tools&logoColor=white&style=for-the-badge" alt="Tools Badge" height="32" />
 </p>
 
 <details>
