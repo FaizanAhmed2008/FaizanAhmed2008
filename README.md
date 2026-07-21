@@ -32,53 +32,67 @@ Status           : Online<br>
   <img src="https://img.shields.io/badge/Cloud-0A66C2?logo=cloud&logoColor=white&style=for-the-badge" alt="Cloud Badge" height="32" />
   <img src="https://img.shields.io/badge/Development-00BFFF?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Development Badge" height="32" />
   <img src="https://img.shields.io/badge/Tools-6B7280?logo=tools&logoColor=white&style=for-the-badge" alt="Tools Badge" height="32" />
+  <img src="https://img.shields.io/badge/Security-FF4301?logo=security&logoColor=white&style=for-the-badge" alt="Security Badge" height="32" />
+  <img src="https://img.shields.io/badge/Systems-5A67D8?logo=server&logoColor=white&style=for-the-badge" alt="Systems Badge" height="32" />
 </p>
 
-<details>
-<summary>$ ls ~/more_skills</summary>
-
-### 🛡️ Security
-- Linux
-- Burp Suite
-- Wireshark
-- Nmap
-- OSINT
-- Bash
-- Linux CLI / GNU Utilities
-- Web/API Security
-
-### ☁️ Cloud
-- Docker
-- AWS Console
-- Linux Server Setup
-- SSH
-
-### 💻 Development
-- Python
-- C/C++
-- Bash
-- Automation & Scripting
-- Git Workflows
-
-### 🌐 Networking
-- TCP/IP
-- DNS
-- HTTP/HTTPS
-- SSH
-- Network Troubleshooting
-- Basic Routing & Switching
-
-### 🛠️ Tools
-- Git
-- GitHub
-- GitLab
-- VS Code
-- Neovim
-
-### 🖥️ Systems
-Comfortable working with Linux systems, from installation and configuration to server setup and administration. I also enjoy troubleshooting computer hardware and exploring Android modding, including bootloader unlocking, rooting, custom ROM installation, and recovery-based customization.
-
-</details>
+<div align="center" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap:16px; margin-top:16px;">
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:14px; padding:18px; text-align:left; min-height:210px;">
+    <h3 style="margin:0 0 10px; color:#58a6ff;">🛡️ Security</h3>
+    <ul style="margin:0; padding-left:18px; color:#c9d1d9;">
+      <li>Linux</li>
+      <li>Burp Suite</li>
+      <li>Wireshark</li>
+      <li>Nmap</li>
+      <li>OSINT</li>
+    </ul>
+  </div>
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:14px; padding:18px; text-align:left; min-height:210px;">
+    <h3 style="margin:0 0 10px; color:#7ee787;">☁️ Cloud</h3>
+    <ul style="margin:0; padding-left:18px; color:#c9d1d9;">
+      <li>Docker</li>
+      <li>AWS Console</li>
+      <li>Linux Server Setup</li>
+      <li>SSH</li>
+    </ul>
+  </div>
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:14px; padding:18px; text-align:left; min-height:210px;">
+    <h3 style="margin:0 0 10px; color:#79c0ff;">💻 Development</h3>
+    <ul style="margin:0; padding-left:18px; color:#c9d1d9;">
+      <li>Python</li>
+      <li>C/C++</li>
+      <li>Bash</li>
+      <li>Automation & Scripting</li>
+      <li>Git Workflows</li>
+    </ul>
+  </div>
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:14px; padding:18px; text-align:left; min-height:210px;">
+    <h3 style="margin:0 0 10px; color:#8b949e;">🌐 Networking</h3>
+    <ul style="margin:0; padding-left:18px; color:#c9d1d9;">
+      <li>TCP/IP</li>
+      <li>DNS</li>
+      <li>HTTP/HTTPS</li>
+      <li>SSH</li>
+      <li>Network Troubleshooting</li>
+    </ul>
+  </div>
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:14px; padding:18px; text-align:left; min-height:210px;">
+    <h3 style="margin:0 0 10px; color:#f59e0b;">🛠️ Tools</h3>
+    <ul style="margin:0; padding-left:18px; color:#c9d1d9;">
+      <li>Git</li>
+      <li>GitHub</li>
+      <li>GitLab</li>
+      <li>VS Code</li>
+      <li>Neovim</li>
+    </ul>
+  </div>
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:14px; padding:18px; text-align:left; min-height:210px;">
+    <h3 style="margin:0 0 10px; color:#a371f7;">🖥️ Systems</h3>
+    <p style="margin:0; color:#c9d1d9; line-height:1.6;">
+      Comfortable working with Linux systems, from installation and configuration to server setup and administration. I also enjoy troubleshooting hardware and exploring Android modding, including bootloader unlocking, rooting, and custom recovery work.
+    </p>
+  </div>
+</div>
 
 ---
 
