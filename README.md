@@ -40,40 +40,23 @@ Status           : Online<br>
   <summary style="cursor:pointer; padding:12px 18px; border:1px solid #30363d; border-radius:14px; background:#161b22; color:#c9d1d9; font-weight:600; max-width:260px; margin:0 auto;">More Skills</summary>
   <div style="overflow-x:auto; margin-top:12px; padding:0 4px;">
     <table style="border-collapse:collapse; width:100%; max-width:900px; margin:0 auto; color:#c9d1d9; font-size:0.95rem;">
-      <thead>
-        <tr>
-          <th style="border-bottom:1px solid #30363d; padding:10px 12px; text-align:left; min-width:160px;">Security</th>
-          <th style="border-bottom:1px solid #30363d; padding:10px 12px; text-align:left; min-width:160px;">Cloud</th>
-          <th style="border-bottom:1px solid #30363d; padding:10px 12px; text-align:left; min-width:160px;">Development</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="border-bottom:1px solid #30363d; padding:10px 12px; vertical-align:top;">
-            🛡️ Linux, Burp Suite, Wireshark, Nmap, OSINT
-          </td>
-          <td style="border-bottom:1px solid #30363d; padding:10px 12px; vertical-align:top;">
-            ☁️ Docker, AWS Console, Linux Server Setup, SSH
-          </td>
-          <td style="border-bottom:1px solid #30363d; padding:10px 12px; vertical-align:top;">
-            💻 Python, C/C++, Bash, Automation, Git Workflows
-          </td>
-        </tr>
-        <tr>
-          <td style="padding:10px 12px; vertical-align:top;">
-            🌐 Networking: TCP/IP, DNS, HTTP/HTTPS, SSH, Troubleshooting
-          </td>
-          <td style="padding:10px 12px; vertical-align:top;">
-            🛠️ Tools: Git, GitHub, GitLab, VS Code, Neovim
-          </td>
-          <td style="padding:10px 12px; vertical-align:top; color:#8b949e; font-style:italic;">
-            🖥️ Systems line appears below the table
-          </td>
-        </tr>
-      </tbody>
+      <tr>
+        <th style="border-bottom:1px solid #30363d; padding:10px 12px; text-align:left; min-width:140px;">Security</th>
+        <th style="border-bottom:1px solid #30363d; padding:10px 12px; text-align:left; min-width:140px;">Cloud</th>
+        <th style="border-bottom:1px solid #30363d; padding:10px 12px; text-align:left; min-width:140px;">Development</th>
+        <th style="border-bottom:1px solid #30363d; padding:10px 12px; text-align:left; min-width:140px;">Networking</th>
+        <th style="border-bottom:1px solid #30363d; padding:10px 12px; text-align:left; min-width:140px;">Tools</th>
+      </tr>
+      <tr>
+        <td style="padding:10px 12px; vertical-align:top;">Linux, Burp Suite, Wireshark, Nmap, OSINT</td>
+        <td style="padding:10px 12px; vertical-align:top;">Docker, AWS Console, Linux Server Setup, SSH</td>
+        <td style="padding:10px 12px; vertical-align:top;">Python, C/C++, Bash, Automation, Git Workflows</td>
+        <td style="padding:10px 12px; vertical-align:top;">TCP/IP, DNS, HTTP/HTTPS, SSH, Troubleshooting</td>
+        <td style="padding:10px 12px; vertical-align:top;">Git, GitHub, GitLab, VS Code, Neovim</td>
+      </tr>
     </table>
     <p style="margin:12px auto 0; max-width:900px; color:#c9d1d9; font-size:0.95rem; text-align:left;">
-      🖥️ Systems: Comfortable with Linux systems, server setup, administration, hardware troubleshooting, and Android modding.
+      🖥️ Systems: Comfortable working with Linux systems, from installation and configuration to server setup and administration. I also enjoy troubleshooting computer hardware and exploring Android modding, including bootloader unlocking, rooting, custom ROM installation, and recovery-based customization...
     </p>
   </div>
 </details>
