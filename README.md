@@ -48,11 +48,11 @@ Status           : Online<br>
         <th style="border-bottom:1px solid #30363d; padding:10px 12px; text-align:left; min-width:140px;">Tools</th>
       </tr>
       <tr>
-        <td style="padding:10px 12px; vertical-align:top;">Linux, Burp Suite, Wireshark, Nmap, OSINT</td>
+        <td style="padding:10px 12px; vertical-align:top;">Linux, Burp Suite, Wireshark, Nmap, Metasploit, Nikto, John the Ripper, OSINT</td>
         <td style="padding:10px 12px; vertical-align:top;">Docker, AWS Console, Linux Server Setup, SSH</td>
         <td style="padding:10px 12px; vertical-align:top;">Python, C/C++, Bash, Automation, Git Workflows</td>
         <td style="padding:10px 12px; vertical-align:top;">TCP/IP, DNS, HTTP/HTTPS, SSH, Troubleshooting</td>
-        <td style="padding:10px 12px; vertical-align:top;">Git, GitHub, GitLab, VS Code, Neovim</td>
+        <td style="padding:10px 12px; vertical-align:top;">Git, GitHub, GitLab,Postman, Antigravity, VS Code, Neovim</td>
       </tr>
     </table>
     <p style="margin:12px auto 0; max-width:900px; color:#c9d1d9; font-size:0.95rem; text-align:left;">
