@@ -50,7 +50,7 @@ Status           : Online<br>
       <tr>
         <td style="padding:10px 12px; vertical-align:top;">Linux, Burp Suite, Wireshark, Nmap, Metasploit, Nikto, John the Ripper, OSINT</td>
         <td style="padding:10px 12px; vertical-align:top;">Docker, AWS Console, Linux Server Setup, SSH</td>
-        <td style="padding:10px 12px; vertical-align:top;">Python, C/C++, Bash, Automation, Git Workflows</td>
+        <td style="padding:10px 12px; vertical-align:top;">Python, C/C++, Bash, Automation, Git Workflows , FireBase-Console</td>
         <td style="padding:10px 12px; vertical-align:top;">TCP/IP, DNS, HTTP/HTTPS, SSH, Troubleshooting</td>
         <td style="padding:10px 12px; vertical-align:top;">Git, GitHub, GitLab,Postman, Antigravity, VS Code, Neovim</td>
       </tr>
