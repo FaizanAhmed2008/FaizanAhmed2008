@@ -67,7 +67,7 @@ Status           : Online<br>
 ## $ feh ~./#202_shinnyyyy.jpge
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/AWLEHiJu3qY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhtbl2SqG2rI-_Z4hWWC3UxkrKVg" alt="shinnyy" style="width:100%; max-width:1280px; height:auto;">
+  <img src="hq720.jpg" alt="shinnyy" style="width:100%; max-width:1280px; height:auto;">
 </p>
 
 ---
