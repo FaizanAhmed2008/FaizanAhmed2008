@@ -67,7 +67,7 @@ Status           : Online<br>
 ## $ feh ~./#202_shinnyyyy.jpge
 
 <p align="center">
-  <img src="wobbuffet.jpg" alt="shinnyy" style="width:100%; max-width:1280px; height:auto;">
+  <img src="]failed.jpg" alt="shinnyy" style="width:100%; max-width:1280px; height:auto;">
 </p>
 
 ---
