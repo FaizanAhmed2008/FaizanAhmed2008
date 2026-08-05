@@ -67,7 +67,7 @@ Status           : Online<br>
 ## $ feh ~./#202_sybau.jpge
 
 <p align="center">
-  <img src="failed.jpg" alt="useless photo!" style="width:100%; max-width:1280px; height:auto;">
+  <img src="2nd.jpg" alt="useless photo!" style="width:100%; max-width:1280px; height:auto;">
 </p>
 
 ---
